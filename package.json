@@ -1,0 +1,20 @@
+{
+    "name": "@jessebrault0709/computronics-types",
+    "version": "0.1.0",
+    "description": "Type declarations for Computronics 1.6.5/ComputerCraft 1.7.5/Minecraft 1.7.10.",
+    "keywords": [
+        "typescript-to-lua",
+        "minecraft",
+        "computercraft",
+        "computronics"
+    ],
+    "author": "jessebrault0709",
+    "repository": "",
+    "license": "ISC",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+        "index.d.ts"
+    ]
+}
