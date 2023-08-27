@@ -1,6 +1,6 @@
 {
     "name": "@jessebrault0709/computronics-types",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Type declarations for Computronics 1.6.5/ComputerCraft 1.7.5/Minecraft 1.7.10.",
     "keywords": [
         "typescript-to-lua",
@@ -16,5 +16,6 @@
     },
     "files": [
         "index.d.ts"
-    ]
+    ],
+    "types": "index.d.ts"
 }
